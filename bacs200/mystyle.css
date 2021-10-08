@@ -9,18 +9,3 @@ h1 {
     text-decoration: underline;
   }
   
-  table {
-    margin: .3em;
-    width: 290px;
-  }
-  
-  th {
-    padding: .2em;
-  }
-  
-  td {
-    padding-left: .5em;
-    padding-right: .5em;
-    border: 1px solid #900;
-    background-color: #ffc;
-  }
