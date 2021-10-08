@@ -1,20 +1,18 @@
 /* CSS Document */
 <style>
-*{font-family:Brigand;}
-.all-browsers {
-    margin: 96px;
-    padding: 10px;
-    background-color:lightslategray;
-}
-.all-browsers > h1, .browser {
-    margin: 10px;
-    padding: 5px;
-}
-.browser{
-    background: white;
-}
-.browser >h2, p {
-    margin: 4px;
-    font-size: 90%;
-}
-</style>
+*{font-family:'Times New Roman', Times, serif;}
+{padding: 10px;
+Border: 5px solid #AA00AA;
+Margin: 20px;}
+{Padding-top:10px;
+Padding-right:10px;
+ Padding-bottom:10px;
+Padding-left:10px;
+Border-top: 5px solid #AA00AA;
+Border-right: 5px solid #AA00AA;
+Border-bottom: 5px solid #AA00AA;
+Border-left: 5px solid #AA00AA;
+Margin-top: 20px;
+Margin-right: 20px;
+Margin-bottom: 20px;
+Margin-left: 20px;}
