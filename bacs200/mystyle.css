@@ -1,10 +1,12 @@
 /* CSS Document */
 <style>
 *{font-family:'Times New Roman', Times, serif;}
-{padding: 10px;
+.all-browsers {
+padding: 10px;
 Border: 5px solid #AA00AA;
 Margin: 20px;}
-{Padding-top:10px;
+.browser{
+Padding-top:10px;
 Padding-right:10px;
  Padding-bottom:10px;
 Padding-left:10px;
