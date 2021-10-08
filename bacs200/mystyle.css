@@ -1,13 +1,6 @@
 /* CSS Document */
 <style>
 p{ margin: 96px 96px 96px}
-h1 {
-    text-align: center;
-    font-size: 1em;
-    color: #009;
-    margin-bottom: .3em;
-    text-decoration: underline;
-  }
   .center{
       display:block;
       margin-left:auto;
