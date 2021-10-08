@@ -1,21 +1,26 @@
 /* CSS Document */
 <style>
-<div class="poster">
-*{font-family:'Times New Roman', Times, serif;}
-.all-browsers {
-padding: 10px;
-Border: 5px solid #AA00AA;
-Margin: 20px;}
-.browser{
-Padding-top:10px;
-Padding-right:10px;
- Padding-bottom:10px;
-Padding-left:10px;
-Border-top: 5px solid #AA00AA;
-Border-right: 5px solid #AA00AA;
-Border-bottom: 5px solid #AA00AA;
-Border-left: 5px solid #AA00AA;
-Margin-top: 20px;
-Margin-right: 20px;
-Margin-bottom: 20px;
-Margin-left: 20px;}
+p{ margin: 96px 96px 96px}
+h1 {
+    text-align: center;
+    font-size: 1em;
+    color: #009;
+    margin-bottom: .3em;
+    text-decoration: underline;
+  }
+  
+  table {
+    margin: .3em;
+    width: 290px;
+  }
+  
+  th {
+    padding: .2em;
+  }
+  
+  td {
+    padding-left: .5em;
+    padding-right: .5em;
+    border: 1px solid #900;
+    background-color: #ffc;
+  }
